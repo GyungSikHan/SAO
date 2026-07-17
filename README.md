@@ -8,14 +8,15 @@ AI가 세계관의 규칙과 플레이어의 행동을 바탕으로 NPC 대화, 
 
 | 항목 | 버전 및 설정 |
 |---|---|
-| Unreal Engine | 5.x.x |
+| Unreal Engine | 5.5.4 |
 | Visual Studio | Visual Studio 2022 17.14 |
+| Visual Studio Code| |
 | 기본 브랜치 | `main` |
 | Git 대용량 파일 관리 | Git LFS |
 | 게임 클라이언트 | Unreal Engine C++ / Blueprint |
 | AI 서버 | Python / FastAPI 예정 |
 
-> `Unreal Engine 5.x.x`는 프로젝트에서 실제로 사용하는 정확한 버전으로 수정해 주세요.
+> `Unreal Engine 5.5.4`는 프로젝트에서 실제로 사용하는 정확한 버전으로 수정해 주세요.
 
 ---
 
